@@ -1,0 +1,6 @@
+{
+  "name": "Cybersecurity Exam Prep Platform",
+  "description": "An advanced preparation platform with three 100-question progressive exams for CompTIA Security+, CEH, and SOC, with AI-powered assessment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
